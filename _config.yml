@@ -1,11 +1,12 @@
 # Site settings
-title_left    : "Think"
-title_right   : "space" # default: ""
-description   : "Minimalist Jekyll theme for technical writing blog."
-keywords      : "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
+title_left    : "Why on "
+title_right   : "Mars?" # default: ""
+description   : "Here to ask the questions, and take a shot at the answers. Or maybe just more questions."
+keywords      : "ask, what, how, mars, why"
 url           : https://heiswayi.github.io/thinkspace # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
+logo          : 
 
 google_analytics  : UA-XXXXX-XX
 twitter_username  : ""
@@ -28,7 +29,7 @@ sass:
 
 # Author settings
 author:
-  name     : "John Doe"
+  name     : "Josepht"
 
 plugins:
   - jekyll-sitemap
@@ -41,6 +42,7 @@ navbar:
     title: About
   - slug : blog
     title: Blog
+
 
 exclude:
   - "gulp"
