@@ -47,6 +47,10 @@ p {
     font-size: rem(22);
     font-weight: 300;
   }
+  &.lead-2 { //this is for the sort font
+    font-size: rem(20);
+    font-weight: 250;
+  }
 }
 
 a {

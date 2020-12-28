@@ -1,6 +1,6 @@
 # Site settings
-title_left    : "Whyon"
-title_right   : "Mars?" # default: ""
+title_left    : "Why_on"
+title_right   : "_Mars?" # default: ""
 description   : "Here to ask the questions, and take a shot at the answers. Or maybe just more questions."
 keywords      : "ask, what, how, mars, why"
 url           : https://heiswayi.github.io/thinkspace # site url

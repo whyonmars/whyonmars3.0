@@ -168,6 +168,15 @@ hr {
   margin-bottom: 1px;
 }
 
+.post-meta-2 {
+  color: $bluish-color;
+  text-transform: uppercase;
+  display: inline-block;
+  letter-spacing: 1px;
+  font-size: rem(14.5);
+  margin-bottom: 1px;
+}
+
 .post-title {
   margin-top: 0;
   margin-bottom: 1em;
@@ -262,6 +271,10 @@ hr {
   border-top: 0.2em solid lighten($light-gray-color, 13%);
   margin-bottom: $base-spacing * 2;
   margin-top: $base-spacing * 2;
+}
+
+.tags {
+  padding-top: 40px;
 }
 
 // This applies from 0px to 600px
