@@ -1,4 +1,4 @@
-I"2
+I"G
 <p>Home 2 Greetings - apples next: No hellos for you</p>
 
 <p>No hellos for you - apples next: What did you expect?</p>
@@ -13,7 +13,7 @@
 
 <p>The quick, brown fox jumps over a lazy dog - cats next: Markdown Cheatsheet Demo</p>
 
-<p>Home - dogs next:</p>
+<p>Home - dogszebra next:</p>
 
 <p>What did you expect? - zebra next: Home</p>
 
@@ -91,43 +91,42 @@ f
 
 <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>0
 apples 
-Home 2 Greetings
+
  
 1
 apples 
-No hellos for you
+
  
 2
 apples 
-What is Lorem Ipsum?
+
  
 3
 boys 
-If you have a Guest post..
+
  
 4
 cats 
-How to Download or Use This Theme
+
  
 5
 cats 
-Markdown Cheatsheet Demo
+
  
 6
 cats 
-The quick, brown fox jumps over a lazy dog
+
  
 7
-dogs 
-Home
+dogszebra 
+
  
 8
 zebra 
-What did you expect?
+
  
 9
 zebra 
-Greetings from the other side of confusion
 </code></pre></div></div>
 
 :ET

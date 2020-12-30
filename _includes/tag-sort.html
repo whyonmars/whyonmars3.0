@@ -6,13 +6,13 @@
     {% for x in (0..sorted_size) %} 
         {% assign z = x | minus: 1 %}
         {% if x == 0 %}
-          <h2 class="category-title">{{ sorted_posts[x].tags }}</h2>
+          <h2 class="category-title-2">{{ sorted_posts[x].tags }}</h2>
         {% else %}
           <!-- this compares the current tag with the next tag -->
           {% assign tag = sorted_posts[x].tags %}
           {% assign ptag = sorted_posts[z].tags %}
           {% if tag != ptag %}
-            <h2 class="category-title">{{ sorted_posts[x].tags }}</h2>
+            <h2 class="category-title-2">{{ sorted_posts[x].tags }}</h2>
           {% endif %}
         {% endif %}
         <article class="post-item">

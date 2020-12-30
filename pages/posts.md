@@ -3,4 +3,5 @@ layout: page
 title: so far...
 permalink: /time
 ---
-{% include year-sort.html %}
+
+{% include mini-nav.html %}
