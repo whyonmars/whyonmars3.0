@@ -1,0 +1,51 @@
+I",<nav class="nav-for-posts">
+    <div class="container-2">
+      <ul class="navbar-for-posts">
+        <!-- <li><a href="http://localhost:4000/posts">random</a></li> -->  
+        <li><a href="http://localhost:4000/posts/by-tag">by_tags</a></li>
+        <li><a href="http://localhost:4000/posts/by-year">by_year</a></li> 
+      </ul>
+    </div>
+  </nav>
+
+<!-- This is the variable base sort that is at the landing of the posts page -->
+
+<section class="post-list">
+    <div class="container">
+      
+      
+        <article class="post-item">
+          <span class="post-meta date-label">Dec 28</span>
+          <div class="article-title"><a class="post-link" href="http://localhost:4000/2020/what-did-you-expect/">What did you expect?</a></div>
+        </article>
+      
+        <article class="post-item">
+          <span class="post-meta date-label">Dec 28</span>
+          <div class="article-title"><a class="post-link" href="http://localhost:4000/2020/home-3/">No hellos for you</a></div>
+        </article>
+      
+        <article class="post-item">
+          <span class="post-meta date-label">Jun 09</span>
+          <div class="article-title"><a class="post-link" href="http://localhost:4000/2016/if-you-have-a-guest-post/">If you have a Guest post..</a></div>
+        </article>
+      
+        <article class="post-item">
+          <span class="post-meta date-label">Dec 28</span>
+          <div class="article-title"><a class="post-link" href="http://localhost:4000/2020/home-2/">Home 2 Greetings</a></div>
+        </article>
+      
+        <article class="post-item">
+          <span class="post-meta date-label">Dec 28</span>
+          <div class="article-title"><a class="post-link" href="http://localhost:4000/2020/home/">Home</a></div>
+        </article>
+      
+        <article class="post-item">
+          <span class="post-meta date-label">Dec 26</span>
+          <div class="article-title"><a class="post-link" href="http://localhost:4000/2020/this-is-a-new-post/">Greetings from the other side of confusion</a></div>
+        </article>
+      
+    </div>
+  
+  </section>
+
+:ET
