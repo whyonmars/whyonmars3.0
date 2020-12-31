@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: about
 title: About
 permalink: /about/
 ---
 
-Introduce yourself here... so people will know who you are and what you do.. blah..blah..blah..
+Hi! I'm Josephtt, a junior university. This site is a collection of raw streams of thought, questions, more questions, and exploring my own curiosity.

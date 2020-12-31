@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Fallacy of the Next Day"
+tags: raw
+---
+It is only today that I have somehow managed to see over the bigger picture of my actions. In general, this has not been the case with me since I always thought that I will live better the next day. This usually happens when I don't sleep enough or when I don't sleep at all. During these days, these moments, the propensity to just lie down, do nothing wonderful, and sleep grows by the ticking time of the day together with the growing friction of doing otherwise. 
+
+This reasoning is not in tune with doing wonderful things throughout the day. It serves as the breeding ground for excuses to watch YouTube videos or binge another anime series. Why I have seen this today? I don't really know. I have a guess as to why. It might be that I have been too fed up with all the excuses that I have been making and the growing black hole that I have created in me. While it truly is overwhelming looking at the mountain, it is invigorating at the same time. Nothing makes your blood flow than a challenge. 
+
+However, seeing this as a challenge also superimposes this pretext that this is something that must be dealt with quickly and in the most efficient manner. While this is certainly true given the limited time, it contradicts with my vision on enjoying the process of tinkering and playing around. It is absolutely spell-binding how problems and puzzles captivate me. It makes me question my thinking and leads me to take on another perspective. 

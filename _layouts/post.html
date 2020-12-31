@@ -11,6 +11,11 @@ layout: default
     {{ content }}
     {% include post-share.html %}
   </div>
+  <!-- this division displays the tags for the page -->
+  <div class="tags">
+    <h4 class="post-meta">tag</h4>
+    <h4 class="post-meta-2"> {{ page.tags | sort | join:" " }}</h4>
+  </div>
 </article>
 
 {% include comments.html %}

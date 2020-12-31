@@ -37,9 +37,37 @@ hr {
   width: 100%;
   margin: $small-spacing 0;
 }
+//this is for center stuff
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 
 .container {
   padding: $base-spacing;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 800px;
+  font-weight: normal;
+}
+//to find out what this is for
+.container-2 {
+  padding-top: 20px;
+  padding-bottom: 40px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 800px;
+  font-weight: normal;
+}
+
+.container-3 {
+  padding: $base-spacing;
+  height: 10px;
+  padding-bottom: 0%;
   margin-left: auto;
   margin-right: auto;
   max-width: 800px;
@@ -108,6 +136,15 @@ hr {
   min-height: 64px;
   background-color: #ff8c8c;
 }
+//nav class for posts
+.nav-for-posts {
+  min-height: 50px;
+  max-width: fit-content;
+  background-color: #ffb4b4e8;
+  border: 1px solid white;
+  border-radius: 10px;
+
+}
 
 .navbar {
   float: right;
@@ -126,9 +163,37 @@ hr {
     @extend .link;
   }
 }
+//as stated, this is for the posts navbar
+.navbar-for-posts {
+  float: left;
+  margin: 0;
+  position: relative;
+  padding: 0;
+  pointer-events: all;
+  cursor: pointer;
+
+  li {
+    display: inline-block;
+    padding: 0 .6em;
+    color:black;
+  }
+
+  a {
+    @extend .link;
+  }
+}
+
 
 .category-title {
   margin: 1em 0 0.5em 0;
+
+  &:first-child {
+    margin-top: 0;
+  }
+}
+.category-title-2 {
+  margin: 1em 0 0.5em 0;
+  color: #fa4000;
 
   &:first-child {
     margin-top: 0;
@@ -167,6 +232,24 @@ hr {
   font-size: rem(14);
   margin-bottom: 1px;
 }
+
+.post-meta-2 {
+  color: $bluish-color;
+  text-transform: uppercase;
+  display: inline-block;
+  letter-spacing: 1px;
+  font-size: rem(14.5);
+  margin-bottom: 1px;
+}
+//this is tailored to look like post-meta but with center properties
+.post-meta-caption {
+  color: $medium-gray-color;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  font-size: rem(14);
+
+}
+
 
 .post-title {
   margin-top: 0;
@@ -262,6 +345,10 @@ hr {
   border-top: 0.2em solid lighten($light-gray-color, 13%);
   margin-bottom: $base-spacing * 2;
   margin-top: $base-spacing * 2;
+}
+
+.tags {
+  padding-top: 40px;
 }
 
 // This applies from 0px to 600px

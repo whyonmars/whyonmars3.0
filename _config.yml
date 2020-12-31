@@ -1,6 +1,6 @@
 # Site settings
-title_left    : "Whyon"
-title_right   : "Mars?" # default: ""
+title_left    : "Why_on"
+title_right   : "_Mars?" # default: ""
 description   : "Here to ask the questions, and take a shot at the answers. Or maybe just more questions."
 keywords      : "ask, what, how, mars, why"
 url           : https://heiswayi.github.io/thinkspace # site url
@@ -8,7 +8,7 @@ baseurl       : "" # apply repo name like "/myproject" if used under gh-pages br
 cover         : "" # image uri like logo/cover image for site seo
 logo          : 
 
-google_analytics  : UA-XXXXX-XX
+google_analytics  : G-GMF7RVGD73
 twitter_username  : ""
 comments_enabled  : false # if enabled (set to true), please provide your disqus_username
 disqus_shortname  : ""
@@ -29,12 +29,13 @@ sass:
 
 # Author settings
 author:
-  name     : "Josepht"
+  name     : "Josephtt"
 
 plugins:
   - jekyll-sitemap
   - bourbon
   - jekyll-paginate
+  - jekyll-analytics
 
 # navbar pages
 navbar:

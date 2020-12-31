@@ -1,13 +1,13 @@
 {% if include.caption %}
 <figure>
     {% if include.href %}
-    <a href="{{ include.href }}">
-        <img src="{{ include.src }}" alt="Image: {{ include.caption }}">
+    <a href="{{ include.href }}" target="_blank">
+        <img src="{{ include.src }}" alt="Image: {{ include.caption }}" class="center">
     </a>
     {% else %}
     <img src="{{ include.src }}" alt="Image: {{ include.caption }}">
     {% endif %}
-    <figcaption><span>{{ include.caption }}</span></figcaption>
+    <figcaption class="post-meta-caption center"><span>{{ include.caption }}</span></figcaption>
 </figure>
 {% else %}
 <figure>
