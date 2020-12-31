@@ -1,0 +1,146 @@
+I"£<nav class="nav-for-posts">
+    <div class="container-2">
+      <ul class="navbar-for-posts">
+        <li><a href="http://localhost:4000/time">random</a></li>   
+        <li><a href="http://localhost:4000/about">by_tags</a></li>
+        <!-- <li><a href="http://localhost:4000/feed.xml" target="_blank">RSS</a></li> -->
+        <li><a href="http://localhost:4000/time">by_year</a></li> 
+      </ul>
+    </div>
+  </nav>
+
+<!-- Another way of sorting by tags (backbone copied from index)-->
+<section class="post-list">
+    <div class="container">
+    
+    
+     
+        
+        
+          <h2 class="category-title-2">apples</h2>
+        
+        <article class="post-item">
+          <span class="post-meta date-label">Dec 28 20</span>
+          <div class="article-title"><a class="post-link" href="http://localhost:4000/2020/home-2/">Home 2 Greetings</a></div>
+        </article>
+     
+        
+        
+          <!-- this compares the current tag with the next tag -->
+          
+          
+          
+        
+        <article class="post-item">
+          <span class="post-meta date-label">Dec 28 20</span>
+          <div class="article-title"><a class="post-link" href="http://localhost:4000/2020/home-3/">No hellos for you</a></div>
+        </article>
+     
+        
+        
+          <!-- this compares the current tag with the next tag -->
+          
+          
+          
+        
+        <article class="post-item">
+          <span class="post-meta date-label">Mar 20 15</span>
+          <div class="article-title"><a class="post-link" href="http://localhost:4000/2015/what-is-lorem-ipsum/">What is Lorem Ipsum?</a></div>
+        </article>
+     
+        
+        
+          <!-- this compares the current tag with the next tag -->
+          
+          
+          
+            <h2 class="category-title-2">boys</h2>
+          
+        
+        <article class="post-item">
+          <span class="post-meta date-label">Jun 09 16</span>
+          <div class="article-title"><a class="post-link" href="http://localhost:4000/2016/if-you-have-a-guest-post/">If you have a Guest post..</a></div>
+        </article>
+     
+        
+        
+          <!-- this compares the current tag with the next tag -->
+          
+          
+          
+            <h2 class="category-title-2">cats</h2>
+          
+        
+        <article class="post-item">
+          <span class="post-meta date-label">Jun 10 16</span>
+          <div class="article-title"><a class="post-link" href="http://localhost:4000/2016/how-to-download-or-use-this-theme/">How to Download or Use This Theme</a></div>
+        </article>
+     
+        
+        
+          <!-- this compares the current tag with the next tag -->
+          
+          
+          
+        
+        <article class="post-item">
+          <span class="post-meta date-label">Dec 30 15</span>
+          <div class="article-title"><a class="post-link" href="http://localhost:4000/2015/markdown-cheatsheet-demo/">Markdown Cheatsheet Demo</a></div>
+        </article>
+     
+        
+        
+          <!-- this compares the current tag with the next tag -->
+          
+          
+          
+        
+        <article class="post-item">
+          <span class="post-meta date-label">Oct 12 15</span>
+          <div class="article-title"><a class="post-link" href="http://localhost:4000/2015/the-quick-brown-fox-jumps-over-a-lazy-dog/">The quick, brown fox jumps over a lazy dog</a></div>
+        </article>
+     
+        
+        
+          <!-- this compares the current tag with the next tag -->
+          
+          
+          
+            <h2 class="category-title-2">dogszebra</h2>
+          
+        
+        <article class="post-item">
+          <span class="post-meta date-label">Dec 28 20</span>
+          <div class="article-title"><a class="post-link" href="http://localhost:4000/2020/home/">Home</a></div>
+        </article>
+     
+        
+        
+          <!-- this compares the current tag with the next tag -->
+          
+          
+          
+            <h2 class="category-title-2">zebra</h2>
+          
+        
+        <article class="post-item">
+          <span class="post-meta date-label">Dec 28 20</span>
+          <div class="article-title"><a class="post-link" href="http://localhost:4000/2020/what-did-you-expect/">What did you expect?</a></div>
+        </article>
+     
+        
+        
+          <!-- this compares the current tag with the next tag -->
+          
+          
+          
+        
+        <article class="post-item">
+          <span class="post-meta date-label">Dec 26 20</span>
+          <div class="article-title"><a class="post-link" href="http://localhost:4000/2020/this-is-a-new-post/">Greetings from the other side of confusion</a></div>
+        </article>
+    
+</div>
+</section>
+
+:ET

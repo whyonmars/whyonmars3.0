@@ -1,0 +1,12 @@
+I"¦<nav class="nav-for-posts">
+    <div class="container-2">
+      <ul class="navbar-for-posts">
+        <li><a href="http://localhost:4000/time">unsorted</a></li>   
+        <li><a href="http://localhost:4000/about">by_tags</a></li>
+        <!-- <li><a href="http://localhost:4000/feed.xml" target="_blank">RSS</a></li> -->
+        <li><a href="http://localhost:4000/time">by_year</a></li> 
+      </ul>
+    </div>
+  </nav>
+
+:ET
